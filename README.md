@@ -4,9 +4,6 @@
 
 # 👋 Hello there, I am Max!
 
-> **Software Engineer | AI Enthusiast | Master's Student**
-> Pronouns: he/him
-
 Welcome to my GitHub page! I am a 24-year-old software engineer from Germany with a strong passion for intelligent systems and clean code. 
 
 ---
